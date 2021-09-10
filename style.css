@@ -1,0 +1,21 @@
+.row {
+    height: 30px;
+}
+
+.cell {
+    display: inline-block;
+    height: 100%;
+    width: 30px;
+}
+
+.black {
+    background-color: black;
+}
+
+.pink {
+    background-color: #ff80ab;
+}
+
+.light-pink {
+    background-color: #ffcdd2;
+}
